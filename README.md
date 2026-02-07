@@ -38,14 +38,6 @@ If a `requirements.txt` file is included:
 pip install -r requirements.txt
 ```
 
-If not, install libraries manually as needed:
-
-```bash
-pip install numpy sympy matplotlib
-```
-
-(Only install what your scripts actually use.)
-
 ---
 
 ## ▶️ Running the Program
